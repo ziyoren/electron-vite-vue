@@ -1,7 +1,7 @@
 # electron-vite-vue
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ziyoren/electron-vite-vue)
-[![vue](https://img.shields.io/badge/vue-2.6.14-brightgreen.svg)](https://github.com/vuejs/vue-next)
+[![vue](https://img.shields.io/badge/vue-3.2.31-brightgreen.svg)](https://github.com/vuejs/vue-next)
 [![vite](https://img.shields.io/badge/vite-2.8.6-brightgreen.svg)](https://github.com/vitejs/vite)
 [![electron](https://img.shields.io/badge/electron-17.2.0-brightgreen.svg)](https://github.com/electron/electron)
 [![electron-builder](https://img.shields.io/badge/electronBuilder-22.14.13-brightgreen.svg)](https://github.com/electron-userland/electron-builder)
